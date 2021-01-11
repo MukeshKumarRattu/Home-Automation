@@ -1,7 +1,7 @@
 # Home Automation
 Want to control your house lights or add some automation functionality then you can easily use ESP8266 and Blynk app which is easy to use and hence can be easily installed by anyone as DIY project.
 
-#Parts Required
+# Parts Required
 Lets get started what we will need for this automation:
 
 NodeMCU (I have purchased from banggood.in), you can use any other board which gives wifi functionality like wemos
